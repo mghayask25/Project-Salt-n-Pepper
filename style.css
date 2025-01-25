@@ -741,12 +741,20 @@ img{
     height: 188px;
     margin-bottom: 70px;
 }
-@font-face {
-    font-family: futurak;
-    src: url(./Assets\ and\ Fonts);
+.resturant-page-2-sub-section-1-heading{
+    font-size: 32px;
+    font-family: Arial;
+    font-style: normal;
+    margin-bottom: 24px;
 }
 .span-05{
     font-family: futurak;
+}
+.resturant-page-2-sub-section-1-para{
+    font-size: 15px;
+    font-family: Arial;
+    margin-bottom: 10px;
+    line-height: 19px;
 }
 .resturant-page-2-section-2{
     width: 534px;
@@ -757,4 +765,49 @@ img{
 .resturant-page-2-sub-section-1-img{
     width: 510px;
     height: 290.34px;
+}
+
+#sections-7{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 100%;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.resturant-page-2-section-3{
+    width: 534px;
+    height: 360.34px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.resturant-page-2-sub-section-2{
+    width: 456px;
+    height: 188px;
+    margin-bottom: 70px;
+}
+.resturant-page-2-sub-section-1-heading-2{
+    font-size: 32px;
+    font-family: Arial;
+    font-style: normal;
+    margin-bottom: 24px;
+}
+.span-05{
+    font-family: futurak;
+}
+.resturant-page-2-sub-section-1-para-2{
+    font-size: 15px;
+    font-family: Arial;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+.resturant-page-2-section-4{
+    width: 534px;
+    height: 360.34px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.resturant-page-2-sub-section-1-img-2{
+    width: 510px;
+    height: 314.05px;
 }
