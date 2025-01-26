@@ -593,18 +593,20 @@ img{
     padding-right: 15px;
     width: 100%;
     height: 548px;
+
    
 }
 .footer-container{
     width: 100%;
-    height: 478px;
+    height: 500px;
     padding-left: 50px;
     padding-right: 50px;
     display: flex;
     justify-content: space-between;
-    padding-bottom: 40px;
+    padding-top: 55px;
+    padding-bottom: 30px;
 }
-#footer-item-1{
+.footer-item-1{
     width: 367.67px;
     height: 423px;
 }
@@ -618,7 +620,7 @@ img{
     line-height: 26px;
     font-family: Arial;
 }
-#footer-item-2{
+.footer-item-2{
     width: 200px;
     height: 423px;
 }
@@ -635,13 +637,14 @@ img{
     font-family: butler;
     margin-bottom: 18px;
 }
-#footer-item-3{
+.footer-item-3{
     height: 423px;
     width: 245px;
+
 }
 .footer-item-3-content-heading{
     font-size: 17px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     font-family: Arial;
     font-weight: 600;
 }
@@ -650,9 +653,15 @@ img{
     font-family: Arial;
     font-weight: 300;
     line-height: 20px;
-    padding-bottom: 16px;
+    padding-bottom: 18px;
 }
-#footer-item-4{
+.footer-item-3-content-para-1{
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: 300;
+    line-height: 20px;
+}
+.footer-item-4{
     width: 196.11px;
     height: 423px;
 }
@@ -681,7 +690,7 @@ img{
 /* Main Started */
 #main-2{
     width: 1349px;
-    height: 4671.53px;
+    height: 4850px;
     padding-top: 72px;
     padding-bottom: 72px;
     padding-right: 60px;
@@ -751,10 +760,10 @@ img{
     font-family: futurak;
 }
 .resturant-page-2-sub-section-1-para{
-    font-size: 15px;
+    font-size: 17px;
     font-family: Arial;
     margin-bottom: 10px;
-    line-height: 19px;
+    line-height: 18px;
 }
 .resturant-page-2-section-2{
     width: 534px;
@@ -772,8 +781,8 @@ img{
     flex-direction: row-reverse;
     justify-content: center;
     width: 100%;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .resturant-page-2-section-3{
     width: 534px;
@@ -796,10 +805,10 @@ img{
     font-family: futurak;
 }
 .resturant-page-2-sub-section-1-para-2{
-    font-size: 15px;
+    font-size: 17px;
     font-family: Arial;
     margin-bottom: 10px;
-    line-height: 19px;
+    line-height: 18px;
 }
 .resturant-page-2-section-4{
     width: 534px;
@@ -810,4 +819,222 @@ img{
 .resturant-page-2-sub-section-1-img-2{
     width: 510px;
     height: 314.05px;
+}
+.resturant-page-2-section-5{
+    width: 100%;
+    font-size: 34px;
+    height: 115px;
+}
+.resturant-page-2-section-5-heading{
+    font-style: normal;   
+    font-weight: 170px;
+    font-family: Arial;
+    margin-bottom: 24px;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+.resturant-page-2-section-6-parent{
+    width: 100%;
+    height: 322.77px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 40px;
+}
+.resturant-page-2-section-6-child{
+    width: 50%;
+    height: 322.77px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.resturant-page-2-section-6-child-heading{
+    font-size: 32px;
+    font-family: Arial;
+    margin-bottom: 24px;
+}
+.resturant-page-2-section-6-child-para{
+    font-size: 18px;
+    font-family: Arial;
+    line-height: 25px;
+}
+.resturant-page-2-section-6-child-image{
+    width: 50%;
+    height: 322.77px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.resturant-page-2-section-6-child-img{
+    width: 100%;
+    height: 322.77px;
+}
+.resturant-page-2-section-7-parent{
+    width: 100%;
+    height: 322.77px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 60px;
+}
+.resturant-page-2-section-8-parent{
+    width: 100%;
+    height: 322.77px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 60px;
+}
+.resturant-page-2-section-9{
+    width: 100%;
+    font-size: 34px;
+    height: 200px;
+}
+.resturant-page-2-section-9-heading{
+    font-style: normal;   
+    font-weight: 200px;
+    font-family: Arial;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-top: 30px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.resturant-page-2-section-9-para{
+    font-size: 18px;
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+.resturant-page-2-section-10-parent{
+    width: 100%;
+    height: 322.77px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.resturant-page-2-section-10-child-para{
+    font-size: 15px;
+    font-family: Arial;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.resturant-page-2-section-11-child-para{
+    font-size: 15px;
+    font-family: Arial;
+    line-height: 20px;
+}
+.resturant-page-2-section-11-heading{
+    font-style: normal;   
+    font-weight: 200px;
+    font-family: Arial;
+    margin-bottom: 24px;
+    margin-top: 35px;
+    padding-bottom: 35px;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.resturant-page-2-section-12-children{
+    width: 100%;
+    height: 462px;
+    display: flex;
+    justify-content: center;
+    column-gap: 30px
+}
+.resturant-page-2-section-12-child-1{
+    width: 356px;
+    height: 430px;
+    padding: 12px;
+    margin-bottom: 32px;
+    border-radius: 8px;
+}
+.resturant-page-2-section-12-child-1-img{
+    width: 330px;
+    height: 275px;
+    margin-bottom: 20px;
+}
+.resturant-page-2-section-12-child-1-span{
+    font-size: 15px;
+    font-family: Arial;
+    background-color: transparent;
+}
+.resturant-page-2-section-12-child-1-para{
+    margin-bottom: 11px;
+    font-family: Arial;
+    font-size: 12px;
+    margin-top: 15px;
+    line-height: 14px;
+}
+.resturant-page-2-section-12-child-2-para{
+    font-size: 14px;
+    font-family: Arial;
+}
+.resturant-page-2-section-12-child-2{
+    width: 356px;
+    height: 430px;
+    padding: 12px;
+    margin-bottom: 32px;
+    border-radius: 8px;
+}
+.resturant-page-2-section-12-child-3{
+    width: 356px;
+    height: 430px;
+    padding: 12px;
+    margin-bottom: 32px;
+    border-radius: 8px;
+}
+.resturant-page-2-section-12-children-1{
+    width: 100%;
+    height: 462px;
+    display: flex;
+    justify-content: center;
+    column-gap: 30px
+}
+.resturant-page-2-section-13-parent{
+    width: 100%;
+    height: 155px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.resturant-page-2-section-13-parent-heading{
+    font-size: 32px;
+    font-family: Arial;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.resturant-page-2-section-13-child-1-span{
+    font-size: 32px;
+    font-family: Arial;
+}
+.resturant-page-2-section-14-parent{
+    display: flex;
+    justify-content: center;
+}
+.resturant-page-2-section-14-children{
+    width: 570px;
+    height: 344.77px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.resturant-page-2-section-14-child-img{
+    width: 546px;
+    height: 312.77px;
+}
+.resturant-page-2-section-14-child-2{
+    font-size: 32px;
+    margin-bottom: 24px;
+}
+.section-14-address{
+    font-size: 16px;
+    font-family: Arial;
+    margin-bottom: 20px;
+}
+.footer-container-2{
+    display: block;
 }
