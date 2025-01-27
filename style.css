@@ -37,6 +37,10 @@ button{
     display: inline-block;
     margin-left: 10px;
 }
+@font-face {
+    font-family: apercu;
+    src: url(./Apercu\ Pro\ Medium.otf);
+ }
 /* Navbar Ended */
 
 /* Main Started */
@@ -141,8 +145,12 @@ img{
 }
 @font-face {
     font-family: futurak;
-    src: url(./Fonts/futurak.ttf);
+    src: url(./futurak.ttf);
 }
+@font-face {
+    font-family: apercu;
+    src: url(./Apercu\ Pro\ Medium.otf);
+ }
 .span-02{
     font-family: futurak;
     font-size: 52px;
@@ -173,7 +181,7 @@ img{
     font-family: futurak;
 }
 .resturant-name{
-    font-family: Arial;
+    font-family: apercu;
     font-weight: 300;
     font-size: 32px;
 }
@@ -221,7 +229,7 @@ img{
     font-family: futurak;
 }
 .resturant-name{
-    font-family: Arial;
+    font-family: apercu;
     font-weight: 300;
     font-size: 32px;
 }
@@ -268,7 +276,7 @@ img{
     font-family: futurak;
 }
 .resturant-name{
-    font-family: Arial;
+    font-family: apercu;
     font-weight: 300;
     font-size: 32px;
 }
@@ -412,7 +420,7 @@ img{
 }
 .opening-soon{
     font-size: 26px;
-    font-family: Arial;
+    font-family: apercu;
 }
 .sections-4-img{
     width: 50%;
@@ -430,7 +438,7 @@ img{
     padding-top: 16px;
     padding-left: 12px;
     width: 50%;
-    font-family: Arial;
+    font-family: apercu;
     height: 320px;
     background-color: transparent;
     line-height: 23px;
@@ -442,7 +450,7 @@ img{
 }
 .section-3-sub-heading{
     font-size: 32px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 18px;
 }
 .section-3-address{
@@ -461,7 +469,7 @@ img{
     
 }
 #sections-5{
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 15px;
     padding-left: 12px;
     padding-right: 12px;
@@ -498,7 +506,7 @@ img{
     letter-spacing: 8px;
 }
 .span-04{
-    font-family: Arial;
+    font-family: apercu;
     font-size: 24px;
     font-weight: 600;
     font-style: normal;
@@ -592,8 +600,6 @@ img{
     padding-right: 15px;
     width: 100%;
     height: 548px;
-
-   
 }
 .footer-container{
     width: 100%;
@@ -617,7 +623,7 @@ img{
 .footer-item-1-content{
     font-size: 15px;
     line-height: 26px;
-    font-family: Arial;
+    font-family: apercu;
 }
 .footer-item-2{
     width: 200px;
@@ -644,19 +650,19 @@ img{
 .footer-item-3-content-heading{
     font-size: 17px;
     padding-bottom: 10px;
-    font-family: Arial;
+    font-family: apercu;
     font-weight: 600;
 }
 .footer-item-3-content-para{
     font-size: 15px;
-    font-family: Arial;
+    font-family: apercu;
     font-weight: 300;
     line-height: 20px;
     padding-bottom: 18px;
 }
 .footer-item-3-content-para-1{
     font-size: 15px;
-    font-family: Arial;
+    font-family: apercu;
     font-weight: 300;
     line-height: 20px;
 }
@@ -710,7 +716,7 @@ img{
 }
 .intro-page-2-para{
     margin-bottom: 15px;
-    font-family: Arial;
+    font-family: apercu;
     font-size: 16px;
     line-height: 25px;
 }
@@ -724,12 +730,12 @@ img{
 }
 .intro-page-2-heading-2{
     font-size: 32px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 24px;
     width: 100%;
 }
 .resturant-page-2-para-1{
-    font-family: Arial;
+    font-family: apercu;
     line-height: 25px;
 }
 #sections-6{
@@ -753,7 +759,7 @@ img{
 }
 .resturant-page-2-sub-section-1-heading{
     font-size: 32px;
-    font-family: Arial;
+    font-family: apercu;
     font-style: normal;
     margin-bottom: 24px;
 }
@@ -762,7 +768,7 @@ img{
 }
 .resturant-page-2-sub-section-1-para{
     font-size: 17px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 10px;
     line-height: 18px;
 }
@@ -807,7 +813,7 @@ img{
 }
 .resturant-page-2-sub-section-1-para-2{
     font-size: 17px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 10px;
     line-height: 18px;
 }
@@ -829,7 +835,7 @@ img{
 .resturant-page-2-section-5-heading{
     font-style: normal;   
     font-weight: 170px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 24px;
     padding-bottom: 25px;
     padding-top: 10px;
@@ -852,12 +858,12 @@ img{
 }
 .resturant-page-2-section-6-child-heading{
     font-size: 32px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 24px;
 }
 .resturant-page-2-section-6-child-para{
     font-size: 18px;
-    font-family: Arial;
+    font-family: apercu;
     line-height: 25px;
 }
 .resturant-page-2-section-6-child-image{
@@ -898,7 +904,7 @@ img{
 .resturant-page-2-section-9-heading{
     font-style: normal;   
     font-weight: 200px;
-    font-family: Arial;
+    font-family: apercu;
     margin-top: 24px;
     margin-bottom: 24px;
     margin-top: 30px;
@@ -908,7 +914,7 @@ img{
 }
 .resturant-page-2-section-9-para{
     font-size: 18px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 10px;
 }
 .resturant-page-2-section-10-parent{
@@ -922,19 +928,19 @@ img{
 }
 .resturant-page-2-section-10-child-para{
     font-size: 15px;
-    font-family: Arial;
+    font-family: apercu;
     line-height: 20px;
     margin-bottom: 10px;
 }
 .resturant-page-2-section-11-child-para{
     font-size: 15px;
-    font-family: Arial;
+    font-family: apercu;
     line-height: 20px;
 }
 .resturant-page-2-section-11-heading{
     font-style: normal;   
     font-weight: 200px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 24px;
     margin-top: 35px;
     padding-bottom: 35px;
@@ -962,19 +968,19 @@ img{
 }
 .resturant-page-2-section-12-child-1-span{
     font-size: 15px;
-    font-family: Arial;
+    font-family: apercu;
     background-color: transparent;
 }
 .resturant-page-2-section-12-child-1-para{
     margin-bottom: 11px;
-    font-family: Arial;
+    font-family: apercu;
     font-size: 12px;
     margin-top: 15px;
     line-height: 14px;
 }
 .resturant-page-2-section-12-child-2-para{
     font-size: 14px;
-    font-family: Arial;
+    font-family: apercu;
 }
 .resturant-page-2-section-12-child-2{
     width: 356px;
@@ -1011,7 +1017,7 @@ img{
 }
 .resturant-page-2-section-13-child-1-span{
     font-size: 32px;
-    font-family: Arial;
+    font-family: apercu;
 }
 .resturant-page-2-section-14-parent{
     display: flex;
@@ -1033,7 +1039,7 @@ img{
 }
 .section-14-address{
     font-size: 16px;
-    font-family: Arial;
+    font-family: apercu;
     margin-bottom: 20px;
 }
 .footer-container-2{
@@ -1046,3 +1052,143 @@ img{
 
 /* Publications HTML Started */
 /* Main Started */
+.page-3-section-parent{
+    width: 1349px;
+    height: 1350.56px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.page-3-section-child{
+    width: 570px;
+    height: 607.56px;
+    padding-left: 12px;
+    padding-right: 12px;
+   
+}
+.page-3-section-subchild{
+    width: 546px;
+    height: 575.56px;
+    border: 1px solid white;
+    padding-top: 32px;
+    padding-bottom: 40px;
+    margin-bottom: 32px;
+}
+.page-3-section-subchild-img{
+    width: 544px;
+    height: 501.56px;
+}
+
+
+.page-3-section-child-1{
+    width: 570px;
+    height: 599px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.page-3-section-child-1-heading{
+    font-family: butler;
+    margin-top: 32px;
+    font-size: 32px;
+}
+.page-3-section-child-1-span{
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 12px;
+}
+.page-3-section-subchild-1-span{
+    font-family: apercu;
+    font-size: 14px;
+}
+.page-3-section-subchild-1{
+    width: 546px;
+    height: 101px;
+    margin-top: 40px;
+}
+ 
+
+
+.page-3-section-subchild-2-span{
+    font-size: 14px;
+    font-family: apercu;
+    margin-bottom: 10px;
+}
+.page-3-section-subchild-2-s{
+    font-size: 14px;
+    font-family: apercu;
+}
+.page-3-section-child-2-span{
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 12px;
+}
+.page-3-section-subchild-2{
+    width: 546px;
+    height: 101px;
+}
+
+
+
+
+.page-3-section-subchild-3-span{
+    font-size: 14px;
+    font-family: apercu;
+    margin-bottom: 10px;
+}
+.page-3-section-subchild-3-s{
+    font-size: 14px;
+    font-family: apercu;
+}
+.page-3-section-child-3-span{
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 12px;
+}
+.page-3-section-subchild-3{
+    width: 546px;
+    height: 101px;
+}
+
+.page-3-section-subchild-4-span{
+    font-size: 14px;
+    font-family: apercu;
+    margin-bottom: 10px;
+}
+.page-3-section-subchild-4-s{
+    font-size: 14px;
+    font-family: apercu;
+}
+.page-3-section-child-4-span{
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 12px;
+}
+.page-3-section-subchild-4{
+    width: 546px;
+    height: 101px;
+}
+
+.page-3-section-subchild-5-span{
+    font-size: 14px;
+    font-family: apercu;
+    margin-bottom: 10px;
+}
+.page-3-section-subchild-5-s{
+    font-size: 14px;
+    font-family: apercu;
+}
+.page-3-section-child-5-span{
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 12px;
+}
+.page-3-section-subchild-5{
+    width: 546px;
+    height: 101px;
+}
+/* Main Ended */
+/* Publications HTML Ended */
+
