@@ -6,8 +6,7 @@
 
 nav{
     margin-top: 5px;
-    margin-left: 57px;
-    margin-right: 57px;
+    border-bottom: 1px solid rgb(20, 20, 20);
     display: flex;
     padding: 10px;
     height: 90px;
@@ -686,6 +685,8 @@ img{
 
 /* Footer Ended */
 
+
+
 /* About HTML Started */
 /* Main Started */
 #main-2{
@@ -1038,3 +1039,10 @@ img{
 .footer-container-2{
     display: block;
 }
+/* Main Ended */
+/* About HTML Ended */
+
+
+
+/* Publications HTML Started */
+/* Main Started */
