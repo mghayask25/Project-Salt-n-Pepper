@@ -21,21 +21,26 @@ a{
     left: 80px;
     font-size: 0.9rem;
 }
-
-button{
-    background-color: transparent;
+.btn-franchise{
+    position: absolute;
+    left: 950px;
+    border: 1px solid white;
+    height: 46px;
     padding: 12px 16px;
-    border-radius: 20px;
-    cursor: pointer;
+    font-size: 13.33px;
+    width: 142px;
 }
 
 #btn-order{
     background-color: #ff0000;
     border: none;
+    border-radius: 20px;
     padding: 12px 16px;
     align-items: center;
     display: inline-block;
-    margin-left: 10px;
+    position: relative;
+    left: 10px;
+    cursor: pointer;
 }
 @font-face {
     font-family: apercu;
@@ -1191,4 +1196,67 @@ img{
 }
 /* Main Ended */
 /* Publications HTML Ended */
+
+/* Get a Franchise Started */
+/* Main Started */
+.page-4-section-grand-parent{
+    width: 100%;
+    height: 470px;
+    display: flex;
+    justify-content: center;
+}
+.page-4-section-parent-1{
+    width: 570px;
+    height: 520px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 60px;
+}
+.page-4-section-parent-2{
+    width: 570px;
+    height: 520px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 60px;
+}
+.page-4-section-child-heading{
+    font-size: 40px;
+    font-family: butler;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+.page-4-section-child-1{
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 570px;
+    height: 90px;
+}
+.page-4-section-subchild-input{
+    width: 547px;
+    height: 44px;
+    background-color: white;
+    padding-left: 12px;
+    padding-right: 36px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-family: apercu;
+}
+.page-4-section-subchild-input-1{
+    width: 547px;
+    height: 44px;
+    font-family: apercu;
+    background-color: white;
+    padding-left: 12px;
+    padding-right: 36px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
 
