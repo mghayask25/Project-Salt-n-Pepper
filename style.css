@@ -1201,15 +1201,14 @@ img{
 /* Main Started */
 .page-4-section-grand-parent{
     width: 100%;
-    height: 470px;
+    height: 410px;
     display: flex;
     justify-content: center;
 }
 .page-4-section-parent-1{
     width: 570px;
-    height: 520px;
+    height: 400px;
     padding-top: 40px;
-    padding-bottom: 70px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -1218,9 +1217,8 @@ img{
 }
 .page-4-section-parent-2{
     width: 570px;
-    height: 520px;
+    height: 400px;
     padding-top: 40px;
-    padding-bottom: 70px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -1230,8 +1228,7 @@ img{
 .page-4-section-child-heading{
     font-size: 40px;
     font-family: butler;
-    margin-bottom: 32px;
-    margin-top: 32px;
+    margin-top: 70px;
 }
 .page-4-section-child-1{
     padding-left: 12px;
@@ -1248,6 +1245,7 @@ img{
     padding-top: 6px;
     padding-bottom: 6px;
     font-family: apercu;
+    border-radius: 7px;
 }
 .page-4-section-subchild-input-1{
     width: 547px;
@@ -1258,5 +1256,18 @@ img{
     padding-right: 36px;
     padding-top: 6px;
     padding-bottom: 6px;
+    border-radius: 7px;
 }
-
+.submit-button{
+    width: 170px;
+    height: 50px;
+    background-color: rgb(255, 255, 0);
+    border-radius: 20px;
+    position: relative;
+    left: 120px;
+    top: 20px;
+    font-family: Arial;
+    color: grey;
+    font-size: 17px;
+    margin-bottom: 70px;
+}
