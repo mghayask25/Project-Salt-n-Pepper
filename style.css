@@ -44,7 +44,7 @@ a{
 }
 @font-face {
     font-family: apercu;
-    src: url(./Apercu\ Pro\ Medium.otf);
+    src: url(./AssetsandFonts/Apercu\ Pro\ Medium.otf);
  }
 /* Navbar Ended */
 
@@ -65,14 +65,23 @@ a{
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: none;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 2rem;
     margin-bottom: 10px;
+    font-family: apercu;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.spanmainhead{
+    font-family: futurak;
+    font-size: 52px;
 }
 
 #description{
     margin-top: 20px;
     color: #a9a9a9;
+    font-family: apercu;
 }
 
 #items{
@@ -166,15 +175,18 @@ img{
 }
 @font-face {
     font-family: futurak;
-    src: url(./futurak.ttf);
+    src: url(./AssetsandFonts/futurak.ttf);
 }
 @font-face {
     font-family: apercu;
-    src: url(./Apercu\ Pro\ Medium.otf);
+    src: url(./AssetsandFonts/Apercu\Pro\Medium.otf);
  }
 .span-02{
     font-family: futurak;
     font-size: 52px;
+}
+.p-1{
+    font-family: apercu;
 }
 .span-01{
     font-size: 45px;
@@ -287,6 +299,12 @@ img{
     box-sizing: border-box;
     padding-left: 25px;
     padding-right: 25px; 
+}
+.address{
+    line-height: 30px;
+}
+.phone-number{
+    line-height: 17px;
 }
 .location-name{
     letter-spacing: 8px;
@@ -635,6 +653,8 @@ img{
 .footer-item-1{
     width: 367.67px;
     height: 423px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 .footer-image{
     width: 140px;
@@ -649,6 +669,8 @@ img{
 .footer-item-2{
     width: 200px;
     height: 423px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 .footer-item-2-content{
     margin-bottom: 10px;
@@ -666,7 +688,8 @@ img{
 .footer-item-3{
     height: 423px;
     width: 245px;
-
+    padding-left: 8px;
+    padding-right: 8px;
 }
 .footer-item-3-content-heading{
     font-size: 17px;
@@ -690,6 +713,8 @@ img{
 .footer-item-4{
     width: 196.11px;
     height: 423px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 .icon-footer-4{
     border-radius: 20px;
@@ -711,8 +736,20 @@ img{
 }
 
 /* Footer Ended */
-
-
+.footer-span-1{
+    position: relative;
+    left: 100px;
+    font-family: apercu;
+}
+.footer-span-2{
+    position: relative;
+    left: 900px;
+    font-family: apercu;
+}
+.last-line{
+    margin-bottom: 11px;
+    margin-top: 11px;
+}
 
 /* About HTML Started */
 /* Main Started */
